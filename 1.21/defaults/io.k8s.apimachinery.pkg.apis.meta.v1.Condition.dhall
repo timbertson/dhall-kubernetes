@@ -1,1 +1,0 @@
-{ observedGeneration = None Integer }
