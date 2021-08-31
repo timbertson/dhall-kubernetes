@@ -1,4 +1,4 @@
-# `dhall-kubernetes`
+# `dhall-kubernetes-mini`
 
 This is a fork of [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) with a bunch of files deleted.
 
